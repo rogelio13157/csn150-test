@@ -8,3 +8,14 @@ This is just a test
 *italic test* 
 
 ~~test for warnings~~
+
+> This is a quote
+
+'''
+this is some code 
+more functions()
+Function(){yes}
+'''
+
+reference link:
+[https://www.google.com/]
