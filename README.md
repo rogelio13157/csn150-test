@@ -5,6 +5,6 @@ This is just a test
 ## small test  
 ### smaller test
 **this is bald**
-* *italic test* *
+*italic test* 
 
 ~~test for warnings~~
