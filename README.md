@@ -11,13 +11,13 @@ This is just a test
 
 > This is a quote
 
-'''
+```
 
 this is some code 
 more functions()
 Function(){yes}
 
-'''
+```
 
 reference link:
 [Google](https://www.google.com/)
